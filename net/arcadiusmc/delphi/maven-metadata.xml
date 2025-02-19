@@ -3,10 +3,11 @@
   <groupId>net.arcadiusmc</groupId>
   <artifactId>delphi</artifactId>
   <versioning>
-    <latest>1.0.0-SNAPSHOT</latest>
+    <latest>0.1.1-SNAPSHOT</latest>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
+      <version>0.1.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20241004183456</lastUpdated>
+    <lastUpdated>20250219193100</lastUpdated>
   </versioning>
 </metadata>

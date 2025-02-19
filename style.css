@@ -1,0 +1,39 @@
+:root {
+  --dark: #121212;
+  --lighter: #1f1f1f;
+}
+
+body {
+  background-color: var(--dark);
+  color: white;
+}
+
+a {
+  color: white;
+}
+a:hover {
+  color: purple;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5em;
+  min-width: 33.33vw;
+  border-collapse: collapse;
+
+  caption {
+    padding: 0.25em;
+  }
+
+  th, td {
+    padding: 0.25em;
+  }
+
+  tr {
+    min-width: 50vw;
+  }
+  tbody tr:hover {
+    background-color: var(--lighter);
+  }
+}

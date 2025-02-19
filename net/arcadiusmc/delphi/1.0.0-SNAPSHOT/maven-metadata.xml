@@ -3,38 +3,38 @@
   <groupId>net.arcadiusmc</groupId>
   <artifactId>delphi</artifactId>
   <versioning>
-    <lastUpdated>20241004183443</lastUpdated>
+    <lastUpdated>20241004183617</lastUpdated>
     <snapshot>
-      <timestamp>20241004.183443</timestamp>
+      <timestamp>20241004.183617</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>module</extension>
-        <value>1.0.0-20241004.183443-1</value>
-        <updated>20241004183443</updated>
-      </snapshotVersion>
-      <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20241004.183443-1</value>
-        <updated>20241004183443</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.0.0-20241004.183443-1</value>
-        <updated>20241004183443</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.0.0-20241004.183443-1</value>
-        <updated>20241004183443</updated>
+        <value>1.0.0-20241004.183617-1</value>
+        <updated>20241004183617</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20241004.183443-1</value>
-        <updated>20241004183443</updated>
+        <value>1.0.0-20241004.183617-1</value>
+        <updated>20241004183617</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20241004.183617-1</value>
+        <updated>20241004183617</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20241004.183617-1</value>
+        <updated>20241004183617</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>1.0.0-20241004.183617-1</value>
+        <updated>20241004183617</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
