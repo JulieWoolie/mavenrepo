@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.juliewoolie",
+    "module": "delphi",
+    "version": "0.4.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "delphi-0.4.0-SNAPSHOT.jar",
+          "url": "delphi-0.4.0-SNAPSHOT.jar",
+          "size": 85313,
+          "sha512": "fc32288f6ecdaf1204d51a61c9d940e67a9c7e052700c0a1ca847a5743b4eb8be37d20095a770e0faa27b529d5aa7f12d7013636bb0604c522058cfa8462512a",
+          "sha256": "3e6e594ca877d50e048d8dbe4cc128236db6342038fbc9c710cc3ae538ece873",
+          "sha1": "d3dc4c99398b26c10556f13dfa5b6d38994aff87",
+          "md5": "d1f9b6ec376d38f7f417010bf1a8690d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "delphi-0.4.0-SNAPSHOT.jar",
+          "url": "delphi-0.4.0-SNAPSHOT.jar",
+          "size": 85313,
+          "sha512": "fc32288f6ecdaf1204d51a61c9d940e67a9c7e052700c0a1ca847a5743b4eb8be37d20095a770e0faa27b529d5aa7f12d7013636bb0604c522058cfa8462512a",
+          "sha256": "3e6e594ca877d50e048d8dbe4cc128236db6342038fbc9c710cc3ae538ece873",
+          "sha1": "d3dc4c99398b26c10556f13dfa5b6d38994aff87",
+          "md5": "d1f9b6ec376d38f7f417010bf1a8690d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "delphi-0.4.0-SNAPSHOT-sources.jar",
+          "url": "delphi-0.4.0-SNAPSHOT-sources.jar",
+          "size": 83148,
+          "sha512": "f71f94efbc07f9a16cf3884130800722ff867e6112f04c9ff2754695973f1b64f9017c409a0a9b33948e0268cc61267cebe9f47e8522d6adab503088bb5987c4",
+          "sha256": "4366a3fb7dce0f8ab318d4f88ddbc4641d47eeaef57549ab965565cf9003d62d",
+          "sha1": "4e28f518303d8801619d2c55a5f764735db501db",
+          "md5": "cd076782173181ef979fee4906793f3d"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "delphi-0.4.0-SNAPSHOT-javadoc.jar",
+          "url": "delphi-0.4.0-SNAPSHOT-javadoc.jar",
+          "size": 4536581,
+          "sha512": "9924c8422dc910a803b6f3f03d36c8266c6294acfc0273d600857ae457eb3ac3271907446caf5b586209156574067509eef9dd6471ccc60a07ecdb6386e0d30c",
+          "sha256": "d00c9dda8a72a436bf425d86b6b963f6ce777a34b3e144eadac1b864321ad65d",
+          "sha1": "6c42e9eee0a9fc534c491e1954234a2e41689d49",
+          "md5": "81288a78510433457b3da35e7d4cb444"
+        }
+      ]
+    }
+  ]
+}
