@@ -1,0 +1,1 @@
+start CMD /k "deno run -A index-gen.ts"

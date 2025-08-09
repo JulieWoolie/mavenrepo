@@ -3,11 +3,12 @@
   <groupId>com.juliewoolie</groupId>
   <artifactId>delphi</artifactId>
   <versioning>
-    <latest>0.4.1-SNAPSHOT</latest>
+    <latest>0.4.2-SNAPSHOT</latest>
     <versions>
       <version>0.4.0-SNAPSHOT</version>
       <version>0.4.1-SNAPSHOT</version>
+      <version>0.4.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250730151914</lastUpdated>
+    <lastUpdated>20250809073131</lastUpdated>
   </versioning>
 </metadata>
